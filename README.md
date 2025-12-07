@@ -27,9 +27,8 @@
 ---
 
 ### 📫 Contact Me
-- Email: [your-email@example.com]  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- GitHub: [github.com/Mohamedredaber](https://github.com/Mohamedredaber)  
+- Email: ridabarhouma@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-reda-berhouma-440a59373
 
 ---
 

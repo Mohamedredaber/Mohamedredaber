@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohamed Reda Berhouma
 
-<!--
-**Mohamedredaber/Mohamedredaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fullstack Web Developer / Digital Development Student at CMC Tanger**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Skills
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** PHP, SQL  
+- **Tools:** Git, GitHub, Vite, React-Bootstrap  
+- **Other:** Responsive design, Debugging, Web accessibility  
+
+---
+
+### 🔭 Current Projects
+- Developing a **Car Rental Platform** for agencies  
+- Building an **E-commerce Website** with 4000+ products  
+- Creating **Interactive Web Applications** for learning and portfolio  
+
+---
+
+### 👯 Looking to Collaborate On
+- Web development projects  
+- Fullstack applications  
+- Open source contributions  
+
+---
+
+### 📫 Contact Me
+- Email: [your-email@example.com]  
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- GitHub: [github.com/Mohamedredaber](https://github.com/Mohamedredaber)  
+
+---
+
+### ⚡ Fun Fact
+I love solving coding challenges and experimenting with new web technologies!
